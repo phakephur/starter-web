@@ -9,6 +9,10 @@ This is an example to show different parts of the Git repository and various com
 
 Sample website with plenty of files for demos
 
+
 ## Description
 This is a simple website which can be deployed on any server or even on a local system.
 
+
+## New
+an edit made inside github
