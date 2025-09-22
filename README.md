@@ -3,11 +3,12 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-This is an example to show different parts of the Git repository and various commands using a web project.
+This is an example to show different parts of the Git repository and various commands using a web project. 
 
 ## Purpose
 
 Sample website with plenty of files for demos
 
-## How to Contribute
+## Description
+This is a simple website which can be deployed on any server or even on a local system.
 
